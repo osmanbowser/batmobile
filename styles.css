@@ -1,0 +1,11 @@
+.header-logo img {
+	width: 100px;
+	height: auto;
+	margin-right: auto;
+}
+
+/* Hero Portion */
+.hero-image img {
+	width: 500px;
+	height: auto;
+}
