@@ -40,7 +40,9 @@ body {
 	padding: 10px;
 	font-family: 'Roboto', arial;
 }
-/* Hero Portion */
+
+/* Hero */
+
 .hero {
 	display: flex;
 	color: #F9FAF8;
@@ -136,6 +138,7 @@ h1 {
 }
 
 /* Sign Up */
+
 .sign-up {
 	background-color: #3882f6;
 	margin: 50px 200px;
@@ -178,6 +181,7 @@ h3 {
 }
 
 /* Footer */
+
 .footer {
 	background-color: #1F2937;
 	color: #fff;
